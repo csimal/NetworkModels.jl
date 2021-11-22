@@ -1,0 +1,13 @@
+name = "NetworkModels"
+uuid = "1b94b2ff-e03e-46b7-a9eb-2248b78a5c30"
+authors = ["Cédric Simal", "University of Namur"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
