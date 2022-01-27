@@ -8,13 +8,14 @@ Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
 Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+VoronoiDelaunay = "72f80fcb-8c52-57d9-aff0-40c1a3526986"
 
 [compat]
-julia = "1"
 Distributions = "0.25"
 Graphs = "1"
 Lazy = "0.15"
 Pipe = "1"
+julia = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
